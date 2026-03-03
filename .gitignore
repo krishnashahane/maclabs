@@ -1,0 +1,23 @@
+# Binaries
+maclabs
+maclabs.exe
+maclabs-linux
+maclabs-darwin
+*.exe
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Config
+.claude/
+
+# Go
+vendor/
