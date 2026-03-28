@@ -1,4 +1,4 @@
-# maclabs
+# 💻 maclabs
 
 Cross-platform command-line text-to-speech powered by ElevenLabs. Works on macOS, Windows, and Linux.
 
